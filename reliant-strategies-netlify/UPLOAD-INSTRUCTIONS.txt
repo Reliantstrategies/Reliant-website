@@ -1,0 +1,13 @@
+RELIANT STRATEGIES — NETLIFY UPLOAD
+
+1. Sign in to your Netlify account.
+2. Open https://app.netlify.com/drop
+3. Drag this entire folder (reliant-strategies-netlify) onto the upload area.
+4. When publishing finishes, open Site configuration > Change site name.
+5. Choose an available name such as reliant-strategies.
+
+Your free address will then look similar to:
+https://reliant-strategies.netlify.app
+
+The website contains Home, Services, and Contact pages. The contact form opens
+the visitor's email app with a message addressed to reliantstrategies@yahoo.com.
